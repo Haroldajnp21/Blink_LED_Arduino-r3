@@ -12,3 +12,4 @@ El objetivo es fomentar la colaboración entre desarrolladores, mantener buenas 
 - Uso de control de versiones con **Git**
 
 ---
+![Logo del proyecto](/EsquematicoFoto.png)
